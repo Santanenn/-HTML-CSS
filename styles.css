@@ -1,0 +1,27 @@
+body{
+    margin: 50px;
+    padding: 20px;
+    background-color: #FFFFFF;
+    font-family: Garamond;
+    font-size: large;
+}
+
+
+
+a:visited{
+    color: gray;
+}
+
+a:hover{
+    color: red;
+}
+
+a:active{
+    color:aqua;
+}
+
+h1{
+    font-weight: 700;
+}
+
+
